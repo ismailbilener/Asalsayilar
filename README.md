@@ -1,0 +1,2 @@
+# Asalsayilar
+Methodlarla asal sayilar
